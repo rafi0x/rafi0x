@@ -1,9 +1,9 @@
 # <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">Hi, I am Rafi 👨‍💻
 
-A JavaScript Developer. I am passionate about technologies and love to learn new things.
+A JavaScript Developer. Also, passionate about technologies and love to learn new things.
 
 
-## ⚡ Tech Stack
+## ⚡ Tech Stacks
 
 Here are a few things I've picked up along my learning journey.
 
