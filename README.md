@@ -1,4 +1,4 @@
-# <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">Hi, I am Rafi 👨‍💻
+# Hi, I am Rafi 👨‍💻
 
 A JavaScript Developer. Also, passionate about technologies and love to learn new things.
 
