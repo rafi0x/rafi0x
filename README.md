@@ -1,11 +1,11 @@
 # Hi, I'm Rafi
 
-A JavaScript Developer. Also, passionate about technologies and love to learn new things.
+#### A JavaScript Developer. Also, passionate about technologies and love to learn new things.
 
 
 ## ⚡ Tech Stacks
 
-Here are a few things I've picked up along my learning journey.
+#### Here are a few things I've picked up along my learning journey.
 
 <a href="#"><img src="https://media0.giphy.com/media/Yfl7CS7vQqnebA69aH/giphy.gif" align="right" height="300"/></a>
 
