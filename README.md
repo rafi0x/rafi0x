@@ -7,7 +7,7 @@
 
 #### Here are a few things I've picked up along my learning journey.
 
-<a href="#"><img src="https://media0.giphy.com/media/Yfl7CS7vQqnebA69aH/giphy.gif" align="right" height="300"/></a>
+<a href="#"><img src="https://media0.giphy.com/media/Yfl7CS7vQqnebA69aH/giphy.gif" align="right" height="230"/></a>
 
  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
 
