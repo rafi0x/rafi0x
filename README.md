@@ -25,7 +25,7 @@
  
 
 ##
-<img src="https://github-readme-streak-stats.herokuapp.com?user=rafi0x&theme=darcula&background=FFFFFF" align="center"/>
+<img src="https://github-readme-streak-stats.herokuapp.com?user=rafi0x&theme=darcula&background=000000" align="center"/>
 
 
 ## 📫 Ping Me on
